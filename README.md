@@ -1,8 +1,6 @@
 
 # Reservation Site Mockup
 
-## 🏨 Project Overview
-
 ## 🖼️ GIF Preview
 
 [RESERVATION SITE](./gif.gif)
